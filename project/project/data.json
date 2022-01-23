@@ -1,0 +1,76 @@
+[
+    {
+        "1": "Who developed Python Programming Language?",
+        "2": "Which of the following functions takes A console Input in Python ?",
+        "3": "Which type of Programming does Python support ?",
+        "4": "Which of The Following is must to Execute a Python Code ?",
+        "5": "Is Python case sensitive when dealing with identifiers  ?",
+        "6": "The append Method adds value to the list at the  ?",
+        "7": "Which of the following is the correct extension of the Python file ?",
+        "8": "What will be the value of the following Python expression? 4+3%5",
+        "9": "Which of the following keyword is used to create a function in Python ?",
+        "10": "To Declare a Global variable in python we use the keyword ?"
+    },
+    {
+        "1": [
+            "Wick van Rossum",
+            "Rasmus Lerdorf",
+            "Guido van Rossum",
+            "Niene Stom"
+        ],
+        "2": [
+            "get()",
+            "input()",
+            "gets()",
+            "scan()"
+        ],
+        "3": [
+            "object-oriented programming",
+            "structured programming",
+            "functional programming",
+            "all of the mentioned"
+        ],
+        "4": [
+            "TURBO C",
+            "Py Interpreter",
+            "Notepad",
+            "IDE"
+        ],
+        "5": [
+            "no",
+            "yes",
+            "machine dependent",
+            "none of the mentioned"
+        ],
+        "6": [
+            "custom location",
+            "end",
+            "center",
+            "beginning"
+        ],
+        "7": [
+            ".python",
+            ".pl",
+            ".py",
+            ".p"
+        ],
+        "8": [
+            "7",
+            "2",
+            "4",
+            "1"
+        ],
+        "9": [
+            "function",
+            "void",
+            "fun",
+            "def"
+        ],
+        "10": [
+            "all",
+            "var",
+            "let",
+            "global"
+        ]
+    }
+]
