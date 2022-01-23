@@ -186,8 +186,4 @@ btnStart = Button(
     command = startIspressed,
 )
 btnStart.pack()
-#win=tkinter.Tk()
-#win.title("Let's play Quiz")
-#win.configure(bg="#FF0000")
- #win.geometry("1350x700+0+0")
 root.mainloop()
